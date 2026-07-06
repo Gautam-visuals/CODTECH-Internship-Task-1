@@ -17,3 +17,8 @@ Objective : The primary objective of this project is to build a lightweight, rel
 * **I/O Buffer Management:** Master standard input/output operations, specifically handling the common pitfalls of mixing `scanf()` and `fgets()` by properly clearing the input buffer.
 * **Modular Code Structure:** Practice writing clean, reusable, and maintainable code by breaking the application logic down into distinct functions with specialized responsibilities.
 * **Defensive Programming:** Implement basic validation checks, such as preventing duplicate primary keys (Student IDs) and managing array boundaries to avoid overflow.
+
+
+OUTPUT
+<img width="610" height="880" alt="Image" src="https://github.com/user-attachments/assets/893a85b4-ba6c-4d47-bbd7-fead8e6634c2" />
+<img width="538" height="681" alt="Image" src="https://github.com/user-attachments/assets/0230745c-76db-4bd3-93c9-ca17e42bca2e" />
